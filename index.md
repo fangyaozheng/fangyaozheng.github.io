@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at NKU
+I am a student and beginner of computer science at NKU.
 
 ## Research Interests
 
