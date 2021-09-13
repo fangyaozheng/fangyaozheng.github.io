@@ -13,8 +13,10 @@ I am a Ph.D. student at NKU
 ## Education
 
 - **2019.9 - Now** Nankai University
-  + Ph.D in Computer Science
+  + Ph.D in Computer Science (in progress)
 - **2015.9 - 2019.6** Hebei University of Technology
+  + Bachelor Degree of Engineering (Network engineering)
+  + Bachelor Degree of Management (Business management)
 
 ## Publications
 
