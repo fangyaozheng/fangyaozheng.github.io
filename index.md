@@ -40,7 +40,7 @@ I am a Ph.D. student at NKU
   <br>
   **Yaozheng Fang**, Zhaolong Jian, Zongming Jin, Xueshuo Xie, Ye Lu, Tao Li
   <br>
-  Wireless Communications and Mobile Computing. **WCMC**.
+  Wireless Communications and Mobile Computing. **WCMC, CCF-C**.
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">The 1<sup>st</sup> Author</i></strong>
   
