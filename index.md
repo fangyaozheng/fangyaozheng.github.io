@@ -26,7 +26,7 @@ I am a Ph.D. student at NKU
   <br>
   IEEE Internet of Things Journal. **SCI-I**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Accetped</i></strong>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">1<sup>st</sup> Author</i></strong>
 
 - **Trusted-DNN: A TrustZone-Based Adaptive Isolation Strategy for Deep Neural Networks**
   <br>
@@ -34,7 +34,7 @@ I am a Ph.D. student at NKU
   <br>
   ACM Turing 2021. **ACM TURC 2021**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] <strong><i style="color:#e74d3c">Accetped</i></strong>
+  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] 
 
 - **Fast Policy Interpretation and Dynamic Conflict Resolution for Blockchain-Based IoT System**
   <br>
@@ -42,7 +42,7 @@ I am a Ph.D. student at NKU
   <br>
   Wireless Communications and Mobile Computing. **WCMC**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">Accetped</i></strong>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">1<sup>st</sup> Author</i></strong>
   
 - **AWAP: Adaptive Weighted Attribute Propagation Enhanced Community Detection Model for Bitcoin De-Anonymization**
   <br>
@@ -50,7 +50,7 @@ I am a Ph.D. student at NKU
   <br>
  Applied Soft Computing. **ASC**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">Accetped</i></strong>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
 - **Sysnif: Constructing Workflow from Interleaved Logs in Intelligent IoT System**
   <br>
@@ -58,7 +58,7 @@ I am a Ph.D. student at NKU
   <br>
   The 22nd IEEE international Symposium on a World of Wireless, Mobile and Multimedia Networks. **WoWMoM**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">Accetped</i></strong>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
   
 - **Attribute Propagation Enhanced Community Detection Model for Bitcoin De-Anonymizing**
   <br>
@@ -66,7 +66,7 @@ I am a Ph.D. student at NKU
   <br>
   The Third International Conference on Machine Learning for Cyber Security. **ML4CS 2020**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">Accetped</i></strong>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
   
 - **Blockchain-Driven Anomaly Detection Framework on Edge Intelligence**
   <br>
@@ -74,4 +74,4 @@ I am a Ph.D. student at NKU
   <br>
   CCF Transactions on Networking. **CCF ToN**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">Accetped</i></strong>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
