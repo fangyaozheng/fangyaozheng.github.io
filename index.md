@@ -12,7 +12,7 @@ I am a Ph.D. student at NKU
 
 ## Education
 
-- **2019.9 - ** Nankai University
+- **2019.9 - Now** Nankai University
 - **2015.9 - 2019.6** Hebei University of Technology
 
 ## Publications
@@ -72,4 +72,3 @@ I am a Ph.D. student at NKU
   CCF Transactions on Networking. **CCF ToN**.
   <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">Accetped</i></strong>
-
