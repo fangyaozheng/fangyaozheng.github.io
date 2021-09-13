@@ -13,6 +13,7 @@ I am a Ph.D. student at NKU
 ## Education
 
 - **2019.9 - Now** Nankai University
+  + Ph.D in Computer Science
 - **2015.9 - 2019.6** Hebei University of Technology
 
 ## Publications
