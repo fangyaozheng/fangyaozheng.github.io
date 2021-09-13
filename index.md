@@ -10,6 +10,11 @@ I am a Ph.D. student at NKU
 
 - **Blockchain:** smart contract arch.
 
+## Education
+
+- **2019.9 - ** Nankai University
+- **2015.9 - 2019.6** Hebei University of Technology
+
 ## Publications
 
 - **ATOM: Architectural Support and Optimization Mechanism for Smart Contract Fast Update and Execution in Blockchain-based IoT**
