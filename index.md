@@ -26,7 +26,7 @@ I am a Ph.D. student at NKU
   <br>
   IEEE Internet of Things Journal. **SCI-I**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">1<sup>st</sup> Author</i></strong>
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">The 1<sup>st</sup> Author</i></strong>
 
 - **Trusted-DNN: A TrustZone-Based Adaptive Isolation Strategy for Deep Neural Networks**
   <br>
@@ -42,7 +42,7 @@ I am a Ph.D. student at NKU
   <br>
   Wireless Communications and Mobile Computing. **WCMC**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">1<sup>st</sup> Author</i></strong>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">The 1<sup>st</sup> Author</i></strong>
   
 - **AWAP: Adaptive Weighted Attribute Propagation Enhanced Community Detection Model for Bitcoin De-Anonymization**
   <br>
