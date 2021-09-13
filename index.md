@@ -20,24 +20,51 @@ I am a Ph.D. student at NKU
   <br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Accetped</i></strong>
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Trusted-DNN: A TrustZone-Based Adaptive Isolation Strategy for Deep Neural Networks**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Zhuang Liu, Ye Lu, Xueshuo Xie, **Yaozheng Fang**, Zhaolong Jian, Tao Li.
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  ACM Turing 2021. **ACM TURC 2021**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] <strong><i style="color:#e74d3c">Accetped</i></strong>
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Fast Policy Interpretation and Dynamic Conflict Resolution for Blockchain-Based IoT System**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Yaozheng Fang**, Zhaolong Jian, Zongming Jin, Xueshuo Xie, Ye Lu, Tao Li
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  Wireless Communications and Mobile Computing. **WCMC**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">Accetped</i></strong>
+  
+- **AWAP: Adaptive Weighted Attribute Propagation Enhanced Community Detection Model for Bitcoin De-Anonymization**
+  <br>
+  Xie Xueshuo, Wang Jiming, Ye Junyi, **Fang Yaozheng**, Lu Ye, Li Tao, Wang Guiling
+  <br>
+ Applied Soft Computing. **ASC**.
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">Accetped</i></strong>
 
-## Services
+- **Sysnif: Constructing Workflow from Interleaved Logs in Intelligent IoT System**
+  <br>
+  Zongming Jin, Xueshuo Xie, **Yaozheng Fang**, Zhaolong Jian, Ye Lu, Guangying Li
+  <br>
+  The 22nd IEEE international Symposium on a World of Wireless, Mobile and Multimedia Networks. **WoWMoM**.
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">Accetped</i></strong>
+  
+- **Attribute Propagation Enhanced Community Detection Model for Bitcoin De-Anonymizing**
+  <br>
+  Jiming Wang, Xueshuo Xie, **Yaozheng Fang**, Ye Lu, Tao Li, Guiling Wang
+  <br>
+  The Third International Conference on Machine Learning for Cyber Security. **ML4CS 2020**.
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">Accetped</i></strong>
+  
+- **Blockchain-Driven Anomaly Detection Framework on Edge Intelligence**
+  <br>
+  Xueshuo Xie, **Yaozheng Fang**, Zhaolong Jian, Ye Lu, Tao Li, Guiling Wang
+  <br>
+  CCF Transactions on Networking. **CCF ToN**.
+  <br>
+  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] <strong><i style="color:#e74d3c">Accetped</i></strong>
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
