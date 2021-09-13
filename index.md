@@ -24,7 +24,7 @@ I am a Ph.D. student at NKU
   <br>
   Tao Li, **Yaozheng Fang**, Zhaolong Jian, Xueshuo Xie, Ye Lu, Guiling Wang
   <br>
-  IEEE Internet of Things Journal. **SCI-I**.
+  IEEE Internet of Things Journal. **IOTJ, SCI-I**.
   <br>
   [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">The 1<sup>st</sup> Author</i></strong>
 
