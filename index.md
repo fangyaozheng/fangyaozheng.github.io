@@ -29,7 +29,7 @@ A Ph.D candidate of computer science at Nankai University, Tian Jin, China.
   <br>
   IEEE Transactions on Parallel and Distributed Systems. **TPDS, CCF-A**.
   <br>
-  [[PDF]([https://arxiv.org/pdf/2002.10211.pdf](https://www.computer.org/csdl/journal/td/5555/01/09780577/1DDyfaUJh4I))] <strong><i style="color:#e74d3c">The 1<sup>st</sup> Author</i></strong>
+  [[LINK]([https://www.computer.org/csdl/journal/td/5555/01/09780577/1DDyfaUJh4I])] <strong><i style="color:#e74d3c">The 1<sup>st</sup> Author</i></strong>
   
 - **ATOM: Architectural Support and Optimization Mechanism for Smart Contract Fast Update and Execution in Blockchain-based IoT**
   <br>
@@ -37,7 +37,7 @@ A Ph.D candidate of computer science at Nankai University, Tian Jin, China.
   <br>
   IEEE Internet of Things Journal. **IOTJ, SCI-I**.
   <br>
-  [[PDF]([https://arxiv.org/pdf/2002.10211.pdf](https://ieeexplore.ieee.org/document/9520821))] <strong><i style="color:#e74d3c">The 1<sup>st</sup> Author</i></strong>
+  [[LINK]([https://ieeexplore.ieee.org/document/9520821])] <strong><i style="color:#e74d3c">The 1<sup>st</sup> Author</i></strong>
 
 - **Trusted-DNN: A TrustZone-Based Adaptive Isolation Strategy for Deep Neural Networks**
   <br>
