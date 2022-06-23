@@ -4,11 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a student and beginner of computer science at NKU.
+A Ph.D candidate of computer science at Nankai University, Tian Jin, China.
 
 ## Research Interests
 
-- **Blockchain:** smart contract arch.
+- **Blockchain:** smart contract architecture.
+- **Computer architecture:** Kernel.
 
 ## Education
 
