@@ -12,21 +12,31 @@ I am a student and beginner of computer science at NKU.
 
 ## Education
 
-- **2019.9 - Now** Nankai University
-  + Ph.D in Computer Science (in progress)
+- **2021.9 - Now** Nankai University
+  + Ph.D phase in Computer Science (in progress)
+- **2019.9 - 2021.6** Nankai University
+  + Master phase in Computer Science
 - **2015.9 - 2019.6** Hebei University of Technology
   + Bachelor of Engineering (Network engineering)
   + Bachelor of Business Administration
 
 ## Publications
 
+- **SmartVM: A Smart Contract Virtual Machine for Fast on-Chain DNN Computations**
+  <br>
+  Tao Li, **Yaozheng Fang**, Ye Lu, Jinni Yang, Zhaolong Jian, Zhiguo Wan, Yusen Li
+  <br>
+  IEEE Transactions on Parallel and Distributed Systems. **TPDS, CCF-A**.
+  <br>
+  [[PDF]([https://arxiv.org/pdf/2002.10211.pdf](https://www.computer.org/csdl/journal/td/5555/01/09780577/1DDyfaUJh4I))] <strong><i style="color:#e74d3c">The 1<sup>st</sup> Author</i></strong>
+  
 - **ATOM: Architectural Support and Optimization Mechanism for Smart Contract Fast Update and Execution in Blockchain-based IoT**
   <br>
   Tao Li, **Yaozheng Fang**, Zhaolong Jian, Xueshuo Xie, Ye Lu, Guiling Wang
   <br>
   IEEE Internet of Things Journal. **IOTJ, SCI-I**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">The 1<sup>st</sup> Author</i></strong>
+  [[PDF]([https://arxiv.org/pdf/2002.10211.pdf](https://ieeexplore.ieee.org/document/9520821))] <strong><i style="color:#e74d3c">The 1<sup>st</sup> Author</i></strong>
 
 - **Trusted-DNN: A TrustZone-Based Adaptive Isolation Strategy for Deep Neural Networks**
   <br>
